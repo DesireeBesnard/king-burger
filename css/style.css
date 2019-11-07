@@ -2,6 +2,8 @@
     min-height: 550px;
     background-image: url(../media/header\ photo.png);
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     
   }
   .navbar-light .navbar-nav .nav-link.active{
@@ -10,4 +12,7 @@
 
 .navbar-collapse{
     text-align: center;
+}
+.h2, h2 {
+    font-size: 5rem;
 }
