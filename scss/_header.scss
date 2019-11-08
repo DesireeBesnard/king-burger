@@ -1,7 +1,4 @@
 
-$color: #00aeff;
-$color2: complement($color);
-
 .bg-header {
     min-height: 105vh;
     background-image:url(../media/header-photo.png);
@@ -39,7 +36,10 @@ h1{
   padding-left: 7.5rem;
 }
 .OFFRESMENUS{
-  border-top: 2px solid #f1dc4f;
+  border-top: 2px solid #D95204;
+}
+.orange{
+  color: #D95204;
 }
 
 
