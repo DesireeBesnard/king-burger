@@ -1,3 +1,12 @@
+@mixin traits(){
+    &::after{
+        content: "";
+        display: block;
+        height: 0;
+        border-top: 2px solid white;
+    }
+}
+
 .bg-gris{
     background-color:$bg-gris;
 }
@@ -15,3 +24,17 @@
 font-size: 0.8rem;
 line-height: 20px;
 }
+
+.americain{
+@include traits;
+}
+
+.veggie{
+@include traits;  
+}
+
+.chicky{
+    
+@include traits;   
+}
+
