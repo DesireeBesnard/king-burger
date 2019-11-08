@@ -34,7 +34,26 @@ line-height: 20px;
 }
 
 .chicky{
-    
 @include traits;   
 }
+
+.saonois{
+@include traits;   
+    }
+
+.montagnard{
+@include traits;   
+    }
+
+.funnyduck{
+@include traits;   
+    }
+
+.vesoulr{
+@include traits;   
+    }
+
+.funburger{
+@include traits;   
+    }
 
