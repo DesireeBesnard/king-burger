@@ -1,8 +1,26 @@
 .livraison{
-        min-height: 100vh;
-        background-image: url("../media/livraison.jpg");
+    
+        min-height: 300px;
+        background-image: url("../media/livraison.png");
         background-position: center;
         background-size: cover;
     }
-    
-    
+
+    .img-livraison{
+        width:180px;
+        height:110px;
+    }
+
+    .lemonbrush{
+        font-family: $lemonbrush;
+    }
+
+    .montserrat{
+        font-family: $montserrat;
+    }
+
+    .text-orange{
+        color:$text-orange;
+    }
+
+ 
