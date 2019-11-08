@@ -1,3 +1,20 @@
-$text-orange:#ffa600;
-$bg-white:#ffffff;
-$bg-gris:#d9d9d9;
+.bg-gris{
+    background-color:$bg-gris;
+}
+
+.img-carte{
+    width: 310px;
+    height: 85px;
+}
+
+.title-carte{
+    font-size:0.8rem;
+
+}
+
+.ingredients{
+font-size: 1rem;
+line-height: 20px;
+
+}
+
