@@ -1,8 +1,9 @@
 .offres{
-    min-height: 100vh;
-    background-image: url("../media/loffredumoment.png");
-    background-position: center;
-    background-size: cover;
+
+    background-image: url("../media/fond-offre.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
 }
 
 .img-dejeuner{
@@ -10,9 +11,22 @@
     height:110px;
 }
 
+.title-offre{
+    font-size:30px;
+}
+
 .row.offre{
     padding-top: 80px;
 }
+
+.offre-intitule{
+    font-size:80px;
+}
+
+.offre-prix{
+    font-size: 20px;
+}
+
 
 .lobster{
     font-family: $lobster;
