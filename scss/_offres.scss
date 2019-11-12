@@ -1,5 +1,4 @@
 .offres{
-
     background-image: url("../media/fond-offre.png");
     background-repeat: no-repeat;
     background-size: contain;
@@ -13,10 +12,6 @@
 
 .title-offre{
     font-size:30px;
-}
-
-.row.offre{
-    padding-top: 80px;
 }
 
 .offre-intitule{
@@ -47,3 +42,25 @@
 .moment{
     font-size: 30%; 
 }
+
+@media (max-width: 575.98px) { 
+
+.offres{
+    background-image: none;
+}    
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+.offres{
+    background-image: none;
+}  
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.offres{
+    background-image: none;
+}
+
+ }
