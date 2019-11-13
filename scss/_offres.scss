@@ -1,8 +1,8 @@
 .offres{
-    min-height: 100vh;
-    background-image: url("../media/loffredumoment.png");
-    background-position: center;
-    background-size: cover;
+    background-image: url("../media/fond-offre.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
 }
 
 .img-dejeuner{
@@ -14,9 +14,18 @@
     margin-bottom: 30%;
 }
 
-.row.offre{
-    padding-top: 80px;
+.title-offre{
+    font-size:30px;
 }
+
+.offre-intitule{
+    font-size:80px;
+}
+
+.offre-prix{
+    font-size: 20px;
+}
+
 
 .lobster{
     font-family: $lobster;
@@ -38,3 +47,24 @@
     font-size: 30%; 
 }
 
+@media (max-width: 575.98px) { 
+
+.offres{
+    background-image: none;
+}    
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+.offres{
+    background-image: none;
+}  
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+.offres{
+    background-image: none;
+}
+
+ }
