@@ -1,6 +1,4 @@
-#Kingburger - Restaurant landing page
-
-
+# Kingburger - Restaurant landing page
 
 <!-- TABLE OF CONTENTS -->
 <details>
