@@ -29,8 +29,7 @@ The aim of the project was to make a graphic proposal for a restaurant website.
 
 Each member of the team had 3 days to make a graphic proposal on Photoshop or Adobe XD. At the end of the 3 days of web design, the client chose my proposal because it corresponded more to his expectations. We had 4 days to complete the integration of the model chosen by the client. The team divided up the tasks using a kanban on Trello.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Project Link: [Online project](https://king-burger-plithbnsh-desireebesnard.vercel.app/)
 
 
 ## Built With
@@ -60,7 +59,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Désirée Besnard - [LinkedIn](https://www.linkedin.com/in/desireebesnard/) - desireebesnard@gmail.com
-
-Project Link: [Online project](https://king-burger-plithbnsh-desireebesnard.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
