@@ -29,7 +29,7 @@ The aim of the project was to make a graphic proposal for a restaurant website.
 
 Each member of the team had 3 days to make a graphic proposal on Photoshop or Adobe XD. At the end of the 3 days of web design, the client chose my proposal because it corresponded more to his expectations. We had 4 days to complete the integration of the model chosen by the client. The team divided up the tasks using a kanban on Trello.
 
-Project Link: [Online project](https://king-burger-plithbnsh-desireebesnard.vercel.app/)
+Project Link: [Here](https://king-burger-plithbnsh-desireebesnard.vercel.app/)
 
 
 ## Built With
