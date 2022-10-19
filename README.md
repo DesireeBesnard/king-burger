@@ -60,4 +60,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Désirée Besnard - [LinkedIn](https://www.linkedin.com/in/desireebesnard/) - desireebesnard@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
